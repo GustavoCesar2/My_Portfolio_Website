@@ -1,9 +1,5 @@
-## Gustavo's data science portfolio
+## Welcome to my Github page :)
 
 
-## I am
-
+## I am:
 - Science, nature, psychology, crypto, business and customer analytics.
-
-
-### Projects
